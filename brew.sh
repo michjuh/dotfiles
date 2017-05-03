@@ -101,5 +101,8 @@ brew install vbindiff
 brew install webkit2png
 brew install zopfli
 
+#black-screen (https://github.com/vshatskyi/black-screen)
+brew cask install black-screen
+
 # Remove outdated versions from the cellar.
 brew cleanup
