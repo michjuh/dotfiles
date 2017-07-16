@@ -104,5 +104,8 @@ brew install zopfli
 #black-screen (https://github.com/vshatskyi/black-screen)
 brew cask install black-screen
 
+#git-flow (https://github.com/nvie/gitflow)
+brew install git-flow
+
 # Remove outdated versions from the cellar.
 brew cleanup
